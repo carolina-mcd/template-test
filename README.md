@@ -8,13 +8,6 @@ https://template-test-eta.vercel.app/
 Quote generator is a web application built in a simple way capable of publishing motivating phrases with just one click, ideal for twitter, quote generator uses an api to generate phrases randomly. Developed by me for the purpose of testing and acquiring new knowledge.</p>
 
 
-<h2>Layout mobile</h2>
-
-![WhatsApp Image 2023-12-29 at 14 36 55](https://github.com/carolina-mcd/template-test/assets/82965208/2966d753-a6ee-47ac-b1f2-3d67aa1037cd)
-
-
-
-
 
 
 <h2>Layout web</h2>
